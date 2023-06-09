@@ -1,0 +1,17 @@
+.academic__courses__box{
+   
+    padding: 0rem;
+}
+
+.academic__courses__list{
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+.academic__courses__list li {
+
+    line-height: 1;
+  }
+  

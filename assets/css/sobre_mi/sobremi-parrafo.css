@@ -1,0 +1,6 @@
+.about__paragraph {
+    display: inline-block; /* para que el ancho se ajuste al contenido */
+    width: 40%; /* establece el ancho al 40% */
+    white-space: normal;
+    margin-left: 10%;
+  }

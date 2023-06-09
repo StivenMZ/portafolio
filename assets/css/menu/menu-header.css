@@ -1,0 +1,13 @@
+.menu__header{
+display: flex;
+align-items: center;
+height: 19px;
+width: 134px;
+margin-left: 10%;
+margin-top: 1%;
+border-radius: nullpx;
+justify-content: space-between;
+}
+
+
+

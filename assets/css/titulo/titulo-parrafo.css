@@ -1,0 +1,46 @@
+.title__bio{
+width: 751px;
+height: 122px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 52px;
+line-height: 61px;
+
+/* Preto/100% */
+
+color: #464646;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+}
+
+.title__subsection{
+    margin-top: 70px;
+    width: 751px;
+height: 52px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 26px;
+
+/* Preto/100% */
+
+color: #464646;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+}

@@ -1,0 +1,15 @@
+.formcontato__img{
+    /* unsplash:JYGnB9gTCls */
+
+
+width: 464px;
+height: 593px;
+
+background:  #EDEDED;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}

@@ -1,0 +1,13 @@
+.title__profile{
+width: 368px;
+height: 368px;
+
+background: url(.jpg);
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+left: px;
+}

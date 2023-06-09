@@ -1,0 +1,57 @@
+.experience__botao--demo:hover{
+    cursor: pointer;
+    background: #558bd2;
+    }
+    
+    .experience__botao--demo:active{
+       
+        background: #006efe;
+        }
+
+.experience__botao--demo{
+    /* Auto layout */
+/**/
+
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+/* Preto/branco */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+/**/
+
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px;
+gap: 10px;
+
+width: 110px;
+height: 51px;
+
+/* Azul/100% */
+
+background: #2A7AE4;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+

@@ -1,0 +1,43 @@
+.academic__courses__item__img{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4rem;
+gap: 10px;
+
+width: 50%;
+height: 250px;
+
+/* Preto/branco */
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.academic__courses__item__img img{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4rem;
+gap: 10px;
+
+width: 50%;
+height: 250px;
+
+/* Preto/branco */
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}

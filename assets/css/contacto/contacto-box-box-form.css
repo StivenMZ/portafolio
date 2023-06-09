@@ -1,0 +1,13 @@
+.formcontato__form{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    order: 2;   
+    flex-basis: 74%;
+    justify-content: space-between;
+}
+
+.formcontato__title, .formcontato__subtext{
+    flex-basis: 30%;
+}
+

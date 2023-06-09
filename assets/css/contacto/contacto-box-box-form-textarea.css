@@ -1,0 +1,19 @@
+.formcontato__textarea{
+    /* Caixa */
+
+
+width: 656px;
+height: 133px;
+
+/* Preto/branco */
+
+background: #FFFFFF;
+border-radius: 4px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+}

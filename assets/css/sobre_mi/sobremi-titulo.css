@@ -1,0 +1,17 @@
+.about__title{
+    align-self: left;
+    width: 137px;
+height: 38px;
+margin-left: 10%;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 38px;
+
+
+    flex: none;
+    order: 0;
+    flex-grow: 0
+}

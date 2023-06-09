@@ -1,0 +1,42 @@
+.menu__list{
+    display: flex;
+    align-items: center;
+    gap: 34px;
+    
+    justify-content: center;
+    margin-right: 50%;
+
+}
+
+.menu__list__item__contato{
+    
+width: 168px;
+height: 19px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+/* Preto/100% */
+
+color: #464646;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 5;
+flex-grow: 0;
+}
+
+.menu__list__item__contato:hover a{
+    color: #9d1b1b;;
+}
+
+.menu__list__item__contato:active a{
+    color: #830000;;
+}

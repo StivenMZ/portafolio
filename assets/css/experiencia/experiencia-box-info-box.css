@@ -1,0 +1,5 @@
+.experience__description{
+    display: flex;
+    gap: 1rem;
+    order: 2;
+}

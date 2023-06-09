@@ -1,0 +1,24 @@
+.title__div{
+   /* Hero */
+
+margin-top: 5%;
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 10px;
+margin-left: 10%;
+
+width: 1136px;
+height: 368px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
